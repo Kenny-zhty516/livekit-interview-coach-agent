@@ -1,0 +1,5 @@
+[project]
+  subdomain = "rag-enabled-voice-agent-6z9t936k"
+
+[agent]
+  id = "CA_3PhNsukmedYZ"
