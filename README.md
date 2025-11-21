@@ -176,6 +176,10 @@ session = AgentSession(
 - **Resume Not Detected:** Confirm file path in backend and upload process in browser.
 
 ***
+## Check out the project demo video:
+https://www.youtube.com/watch?v=T1JiDi_H3HY&t=171s
+
+***
 
 ## Credits
 
