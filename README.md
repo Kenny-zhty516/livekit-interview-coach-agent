@@ -184,6 +184,5 @@ https://www.youtube.com/watch?v=T1JiDi_H3HY&t=171s
 ## Credits
 
 - Built using [LiveKit](https://livekit.io/), [LangChain](https://www.langchain.com/), [Chroma](https://www.trychroma.com/), [HuggingFace](https://huggingface.co/), [Next.js](https://nextjs.org/).
-- https://www.perplexity.ai/search/failed-to-connect-to-livekit-s-340faG1vSAuU7ZR5dTjt8w#77
 
 ***
